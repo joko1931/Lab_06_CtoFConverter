@@ -14,7 +14,7 @@ public class Main
         {
             celsiusNumber = in.nextDouble();
             fahrenheitNumber = celsiusNumber * 1.8 + 32;
-            System.out.println(celsiusNumber + " degrees C is " + fahrenheitNumber + " degrees Fah");
+            System.out.println(celsiusNumber + " degrees C is " + fahrenheitNumber + " degrees F");
 
         }
     }
