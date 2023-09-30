@@ -19,7 +19,7 @@ public class Main
                 celsiusNumber = in.nextDouble();
                 in.hasNextLine();
                 fahrenheitNumber = celsiusNumber * 1.8 + 32;
-                System.out.println(celsiusNumber + " degrees in celsius is " + fahrenheitNumber + " degrees in fahrenheit");
+                System.out.println(celsiusNumber + " degrees in celsius converted is " + fahrenheitNumber + " degrees in fahrenheit");
                 done = true;
             }
             else
